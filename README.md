@@ -1,2 +1,2 @@
-# HappyInsta
+# SillySlider
 Created with CodeSandbox
